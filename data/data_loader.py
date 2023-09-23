@@ -82,7 +82,7 @@ class DatasetETT:
             df_stamp['minute'] = df_stamp.minute.map(lambda x: x // 15)
 
         data_stamp = df_stamp.drop(columns='date').values
-
+        print('lmao')
         self.data_x = data[border1:border2]
         # self.data_y = data[border1:border2]
         self.data_stamp = data_stamp
