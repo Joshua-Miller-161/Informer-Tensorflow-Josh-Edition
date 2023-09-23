@@ -1,5 +1,5 @@
 My TensorFlow implementation of the informer and train/test it on the ETT dataset.
-
+To get it running quickly, use "python3 main_informer.py --model informer --data ETTh1"
 Original respository: https://github.com/tianhai123/Informer-Tensorflow
 
 Super original repository (PyTorch): https://github.com/zhouhaoyi/Informer2020
