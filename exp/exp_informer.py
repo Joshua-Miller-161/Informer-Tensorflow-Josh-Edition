@@ -65,7 +65,7 @@ class ExpInformer():
         return dataset
 
     def _select_optimizer(self):
-        model_optim = tf.keras.optimizers.Adam(lr=self.args.learning_rate)
+        model_optim = tf.keras.optimizers.Adam(learning_rate=self.args.learning_rate)
         return model_optim
 
     def train(self, setting):
