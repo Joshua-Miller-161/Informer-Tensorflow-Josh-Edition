@@ -1,4 +1,5 @@
-# Informer-Tensorflow
-(WIP) Tensorflow implementation for Informer
+My TensorFlow implementation of the informer and train/test it on the ETT dataset.
 
-Original repository: https://github.com/zhouhaoyi/Informer2020
+Original respository: https://github.com/tianhai123/Informer-Tensorflow
+
+Super original repository (PyTorch): https://github.com/zhouhaoyi/Informer2020
